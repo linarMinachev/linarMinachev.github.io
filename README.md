@@ -1,1 +1,0 @@
-# linarMinachev.github.io

@@ -37,10 +37,10 @@ a {
   color: #8C7676;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
-  transition: 0.5s;
+  transition: 0.1s;
 }
 a:hover, a:active, a:focus {
-  color: #8C7676;
+  color: #d2d2d2;
   outline: none;
 }
 
